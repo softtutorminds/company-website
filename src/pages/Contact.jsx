@@ -82,7 +82,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Us",
-      details: ["Koramangala, Bangalore", "Karnataka, India - 560034"],
+      details: ["Ameerpet, Hyderabad", "Telangana, India - 500016"],
       color: "from-purple-500 to-purple-600"
     },
     {
@@ -276,7 +276,7 @@ const Contact = () => {
                 <div className="text-center">
                   <MapPin className="h-12 w-12 text-gray-400 mx-auto mb-4" />
                   <p className="text-gray-600">Interactive Map</p>
-                  <p className="text-sm text-gray-500">Koramangala, Bangalore</p>
+                  <p className="text-sm text-gray-500">Ameerpet, Hyderabad</p>
                 </div>
               </div>
 
@@ -357,7 +357,7 @@ const Contact = () => {
               className="inline-flex items-center text-blue-600 hover:text-blue-700 font-semibold"
             >
               <Mail className="h-4 w-4 mr-2" />
-              info@softtutorminds.com
+              supportsofttutorminds@gmail.com
             </a>
           </div>
         </div>
