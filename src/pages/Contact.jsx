@@ -76,7 +76,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 6304759938", "+91 8765432109"],
+      details: ["+91 6304759938", "+91 7032364477 "],
       color: "from-green-500 to-green-600"
     },
     {
@@ -88,19 +88,19 @@ const Contact = () => {
     {
       icon: Clock,
       title: "Office Hours",
-      details: ["Monday - Friday: 9 AM - 8 PM", "Saturday: 10 AM - 6 PM"],
+      details: ["Monday - Saturday: 8 AM - 10 PM", "Sunday: 10 AM - 6 PM"],
       color: "from-orange-500 to-orange-600"
     }
   ];
 
   const faqs = [
     {
-      question: "What is the Pay After Placement model?",
-      answer: "You pay the course fee only after you get placed in a job. This ensures zero financial risk during your learning journey."
+      question: "What is online Training Model?",
+      answer: " Trainings will be conducted Through Online.During Flexible Timings"
     },
     {
-      question: "How long does it take to get placed?",
-      answer: "On average, our students get placed within 45-60 days of course completion. We provide 100% placement assistance."
+      question: "How long does it take to complete?",
+      answer: "On average, our students get placed within 45-60 days of course completion.It depends on time."
     },
     {
       question: "Do you provide home tuition services?",
