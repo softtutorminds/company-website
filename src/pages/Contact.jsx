@@ -10,7 +10,8 @@ import {
   Facebook,
   Twitter,
   Linkedin,
-  Instagram
+  Instagram,
+  Youtube
 } from 'lucide-react';
 
 const Contact = () => {
@@ -290,25 +291,25 @@ const Contact = () => {
                 </p>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.facebook.com/share/1FpScAYErN/"
                     className="p-3 bg-blue-50 text-blue-600 rounded-lg hover:bg-blue-100 transition-colors duration-300"
                   >
                     <Facebook className="h-5 w-5" />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.youtube.com/@SoftTutorMinds"
                     className="p-3 bg-blue-50 text-blue-600 rounded-lg hover:bg-blue-100 transition-colors duration-300"
                   >
-                    <Twitter className="h-5 w-5" />
+                    <Youtube className="h-5 w-5" />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/company/soft-tutor-minds/"
                     className="p-3 bg-blue-50 text-blue-600 rounded-lg hover:bg-blue-100 transition-colors duration-300"
                   >
                     <Linkedin className="h-5 w-5" />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.instagram.com/softtutorminds/"
                     className="p-3 bg-blue-50 text-blue-600 rounded-lg hover:bg-blue-100 transition-colors duration-300"
                   >
                     <Instagram className="h-5 w-5" />

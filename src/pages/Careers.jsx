@@ -387,12 +387,11 @@ const Careers = () => {
                     <h4 className="font-medium text-gray-900">Resume Upload</h4>
                     <p className="text-sm text-gray-600 mt-1">
                       After submitting this form, please email your resume to 
-                      <span className="font-medium text-blue-600"> careers@softtutorminds.com</span>
+                      <span className="font-medium text-blue-600">softtutorminds@gmail.com</span>
                     </p>
                   </div>
                 </div>
               </div>
-
               <button
                 type="submit"
                 disabled={isSubmitting}
